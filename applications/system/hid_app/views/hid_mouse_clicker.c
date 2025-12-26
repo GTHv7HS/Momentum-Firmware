@@ -7,7 +7,7 @@
 #define TAG "HidMouseClicker"
 
 #define DEFAULT_CLICK_RATE 1
-#define MAXIMUM_CLICK_RATE 100
+#define MAXIMUM_CLICK_RATE 9999
 
 struct HidMouseClicker {
     View* view;
